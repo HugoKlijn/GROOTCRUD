@@ -1,4 +1,4 @@
 # GROOTCRUD
 
 
-lekker de wereld rond
+lekker de wereld rond wandelen met wereld wandel
