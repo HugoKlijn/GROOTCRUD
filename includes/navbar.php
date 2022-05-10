@@ -1,8 +1,3 @@
-<?php
-    include_once "includes/connect.php"
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,13 +10,16 @@
 </head>
 
 <body>
-    <?php
-    include_once "includes/navbar.php"
-    ?>
 
-    <main>
-
-    </main>
 </body>
 
 </html>
+
+<nav>
+    <div class="navbar">
+        <a href="index.php">Home</a>
+        <a href="over ons.php?page=about">over ons</a>
+    </div>
+    <div class="logo"><img src="img/logo.png"></div>
+
+</nav>
